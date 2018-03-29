@@ -6,3 +6,4 @@ python-decouple
 django-phonenumber-field
 django-email-registration
 django-sendgrid-v5
+django-registration
