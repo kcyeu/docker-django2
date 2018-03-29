@@ -1,0 +1,8 @@
+django==2.0.3
+djangorestframework
+psycopg2-binary
+gunicorn
+python-decouple
+django-phonenumber-field
+django-email-registration
+django-sendgrid-v5
